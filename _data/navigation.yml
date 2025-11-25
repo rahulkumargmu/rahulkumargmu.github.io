@@ -8,11 +8,8 @@ main:
   - title: "Experience"
     url: /experience/
 
+  - title: "Education"
+    url: /education/
+
   - title: "CV"
     url: /cv/
-
-  - title: "Blog"
-    url: /year-archive/
-
-  - title: "Guide"
-    url: /markdown/
