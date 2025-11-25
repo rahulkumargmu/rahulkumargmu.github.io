@@ -11,13 +11,22 @@ Previously, I worked as a Security Analyst at JSC Golla Engineering Pvt Ltd and 
 **Current roles**
 
 - Graduate Teaching Assistant, George Mason University (Computer Networking & Cyber Security courses)  
-- Research on CAPTCHA security flaws and automated web crawling for e-commerce data collection
+- Research on CAPTCHA security flaws and automated web crawling for e-commerce data collection  
+
+## Research Interests
+
+- Web Application Security  
+- Penetration Testing  
+- CAPTCHA Security  
+
+## News
+
+- **[Nov. 2025]** Attended [Security+Privacy Forum](https://www.privacysecurityacademy.com/psf-fall-conference/) – Fall Academy  
+- **[Oct. 2025]** Participated at [TogetherWeHack](https://www.wicys.org/event/wicys-amazons-together-we-hack/) Hackathon by Amazon, HackerOne and WiCyS a and secured 15th rank  
 
 **Find me online**
 
-- [GitHub](https://github.com/rahulkumarmmmut)  
+- [GitHub](https://github.com/rahulkumargmu)  
 - [LinkedIn](https://www.linkedin.com/in/rahul-kumar-gmu/)  
 - [Personal site](http://www.rahulkumar.live/)  
 - [Medium](https://medium.com/@rahulk2903)
-
-
